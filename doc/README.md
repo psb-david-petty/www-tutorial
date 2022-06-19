@@ -18,8 +18,9 @@ This document covers HTML 5.
 ```
 
 ## Basic tags
-<style>
-table:nth-of-type(1) th:nth-child(1) { width:10%; }
+<style
+  type="text/css"> 
+  table:nth-of-type(1) th:nth-child(1) { width: 15em; }
 </style>
 
 | Tag | Description |
