@@ -27,7 +27,8 @@ This document covers HTML 5.
 | --- | --- |
 | `<!DOCTYPE html>` | [https://www.w3schools.com/tags/tag_doctype.asp](https://www.w3schools.com/tags/tag_doctype.asp) 'The <!DOCTYPE> declaration must be the very first thing in your HTML document, before the <html> tag. The <!DOCTYPE> declaration is not an HTML tag; it is an instruction to the web browser about what version of HTML the page is written in.' |
 | `<html lang="en">`<br>`</html>` | [https://www.w3schools.com/tags/tag_html.asp](https://www.w3schools.com/tags/tag_html.asp) 'The <html> tag is the container for all other HTML elements (except for the <!DOCTYPE> DTD).' The lang="en" attribute specifies the language of the webpage is English (See: https://www.w3schools.com/Tags/ref_language_codes.asp) |
-| `<head>`<br>`</head>` | https://www.w3schools.com/tags/tag_head.asp 'The <head> element can include a title for the document, scripts, styles, meta information, and more,' including:  <title> (this element is required in an HTML document), <style>, <base>, <link>, <meta>, <script>, <noscript>.
+| `<head>`<br>`</head>` |[https://www.w3schools.com/tags/tag_head.asp](https://www.w3schools.com/tags/tag_head.asp) 'The <head> element can include a title for the document, scripts, styles, meta information, and more,' including:  <title> (this element is required in an HTML document), <style>, <base>, <link>, <meta>, <script>, <noscript>. |
+
 | `<meta charset="utf-8">` | https://www.w3schools.com/tags/tag_meta.asp 'Metadata is data (information) about data. The <meta> tag provides metadata about the HTML document.' The charset="utf-8" attribute tells the browser that the page is encoded using UTF-8 character encoding. (See: https://www.w3.org/International/articles/definitions-characters/)
 <title>
 </title>
