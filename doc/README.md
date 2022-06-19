@@ -18,8 +18,11 @@ This document covers HTML 5.
 ```
 
 ## Basic tags
+<style>
+table:nth-of-type(1) th:nth-child(1) { width:10%; }
+</style>
 
-| <div style="width:290px">Tag</div> | Description |
+| Tag | Description |
 | --- | --- |
 | `<!DOCTYPE html>` | [https://www.w3schools.com/tags/tag_doctype.asp](https://www.w3schools.com/tags/tag_doctype.asp) 'The <!DOCTYPE> declaration must be the very first thing in your HTML document, before the <html> tag. The <!DOCTYPE> declaration is not an HTML tag; it is an instruction to the web browser about what version of HTML the page is written in.' |
 | `<html lang="en">`<br>`</html>` | [https://www.w3schools.com/tags/tag_html.asp](https://www.w3schools.com/tags/tag_html.asp) 'The <html> tag is the container for all other HTML elements (except for the <!DOCTYPE> DTD).' The lang="en" attribute specifies the language of the webpage is English (See: https://www.w3schools.com/Tags/ref_language_codes.asp) |
