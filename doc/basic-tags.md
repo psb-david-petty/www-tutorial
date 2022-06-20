@@ -1,6 +1,6 @@
 <style
   type="text/css"> 
-  table:nth-of-type(1) th:nth-child(1) { width: 252px; } /* 28 * 9 */
+  table:nth-of-type(1) th:nth-child(1) { width: 280px; } /* 28 * 10 */
 </style>
 
 # Basic HTML 5 tags
