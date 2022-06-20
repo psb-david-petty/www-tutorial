@@ -22,8 +22,7 @@ The other documents document the tags, stylesheet declaration, and JavaScript co
 | Link | Description |
 | --- | --- |
 | [./basic-tags.html](https://psb-david-petty.github.io/www-tutorial/doc/basic-tags.html) | Basic tag description |
-| --- | --- |
-| [./basic-tags.html](https://psb-david-petty.github.io/www-tutorial/doc/tags.html) | All tag descriptions from from [*W3 Schools* tag reference](https://www.w3schools.com/tags/) |
+| [./tags.html](https://psb-david-petty.github.io/www-tutorial/doc/tags.html) | All tag descriptions from from [*W3 Schools* tag reference](https://www.w3schools.com/tags/) |
 
 <hr>
 
