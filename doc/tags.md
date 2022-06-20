@@ -121,3 +121,7 @@ Copied from [*W3 Schools* tag reference](https://www.w3schools.com/tags/) &mdash
 1. `<var>`	Defines a variable
 1. `<video>`	Defines embedded video content
 1. `<wbr>`	Defines a possible line-break
+
+<hr>
+
+[&#8617; back](https://psb-david-petty.github.io/www-tutorial/doc/), [&#128279; permalink](https://psb-david-petty.github.io/www-tutorial/doc/tags.html), and [&#128297; repository](https://github.com/psb-david-petty/www-tutorial/blob/main/doc/tags.md) for this page.

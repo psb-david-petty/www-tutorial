@@ -26,4 +26,4 @@
 
 <hr>
 
-[&#128279; permalink](https://psb-david-petty.github.io/www-tutorial/doc/basic-tags.html) and [&#128297; repository](https://github.com/psb-david-petty/www-tutorial/blob/main/doc/basic-tags.md) for this page.
+[&#8617; back](https://psb-david-petty.github.io/www-tutorial/doc/), [&#128279; permalink](https://psb-david-petty.github.io/www-tutorial/doc/basic-tags.html), and [&#128297; repository](https://github.com/psb-david-petty/www-tutorial/blob/main/doc/basic-tags.md) for this page.
