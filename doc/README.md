@@ -20,7 +20,7 @@ This document covers HTML 5.
 ## Basic tags
 <style
   type="text/css"> 
-  table:nth-of-type(1) th:nth-child(1) { width: 10%; }
+  table:nth-of-type(1) th:nth-child(1) { width: 15%; }
 </style>
 
 | Tag | Description |
@@ -31,10 +31,7 @@ This document covers HTML 5.
 | `<meta charset="utf-8">` | [https://www.w3schools.com/tags/tag_meta.asp](https://www.w3schools.com/tags/tag_meta.asp) 'Metadata is data (information) about data. The `<meta>` tag provides metadata about the HTML document.' The `charset="utf-8"` attribute tells the browser that the page is encoded using UTF-8 character encoding. (See: [https://www.w3.org/International/articles/definitions-characters/](https://www.w3.org/International/articles/definitions-characters/)) |
 | `<title>`<br>`</title>` |[https://www.w3schools.com/tags/tag_title.asp](https://www.w3schools.com/tags/tag_title.asp) 'The `<title>` tag is required in all HTML documents and it defines the title of the document.' |
 | `<body>`<br>`</body>` |[https://www.w3schools.com/tags/tag_body.asp](https://www.w3schools.com/tags/tag_body.asp) 'The `<body>` tag defines the document's body. The `<body>` element contains all the contents of an HTML document...' |
-
-<p>
-</p>
-https://www.w3schools.com/tags/tag_p.asp 'The <p> tag defines a paragraph.'
+| `<p>`<br>`</p>` |[https://www.w3schools.com/tags/tag_p.asp](https://www.w3schools.com/tags/tag_p.asp) 'The `<p>` tag defines a paragraph.' |
 
 <em>
 </em>
@@ -65,3 +62,7 @@ https://www.w3schools.com/tags/tag_a.asp 'The <a> tag defines a hyperlink used t
 
 <!-- This is a comment -->
 https://www.w3schools.com/tags/tag_comment.asp 'The comment tag is used to insert comments in the source code. Comments are not displayed in the browsers.'
+
+<hr>
+
+[&#128279; permalink](https://psb-david-petty.github.io/www-tutorial/doc/) and [&#128297; repository](https://github.com/psb-david-petty/www-tutorial/) for this page.
