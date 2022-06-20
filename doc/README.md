@@ -25,4 +25,4 @@ The other documents document the tags, stylesheet declaration, and JavaScript co
 
 <hr>
 
-[&#128279; permalink](https://psb-david-petty.github.io/www-tutorial/doc/) and [&#128297; repository](https://github.com/psb-david-petty/www-tutorial/) for this page.
+[&#128279; permalink](https://psb-david-petty.github.io/www-tutorial/doc/) and [&#128297; repository](https://github.com/psb-david-petty/www-tutorial/tree/main/doc/) for this page.

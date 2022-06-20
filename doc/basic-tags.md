@@ -1,6 +1,6 @@
 <style
   type="text/css"> 
-  table:nth-of-type(1) th:nth-child(1) { width: 20%; }
+  table:nth-of-type(1) th:nth-child(1) { width: 25%; }
 </style>
 
 # Basic HTML 5 tags
@@ -26,4 +26,4 @@
 
 <hr>
 
-[&#128279; permalink](https://psb-david-petty.github.io/www-tutorial/doc/basic-tags.html) and [&#128297; repository](https://github.com/psb-david-petty/www-tutorial/basic-tags.md) for this page.
+[&#128279; permalink](https://psb-david-petty.github.io/www-tutorial/doc/basic-tags.html) and [&#128297; repository](https://github.com/psb-david-petty/www-tutorial/blob/main/doc/basic-tags.md) for this page.
