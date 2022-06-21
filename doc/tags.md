@@ -7,7 +7,7 @@ Copied from [*W3 Schools* tag reference](https://www.w3schools.com/tags/) &mdash
 1. `<a>`	Defines a hyperlink
 1. `<abbr>`	Defines an abbreviation or an acronym
 1. `<acronym>`	**Not supported in HTML5.** Use `<abbr>` instead. Defines an acronym
-1. `<a1. ddress>`	Defines contact information for the author/owner of a document
+1. `<address>`	Defines contact information for the author/owner of a document
 1. `<applet>`	**Not supported in HTML5.** Use `<embed>` or `<object>` instead. Defines an embedded applet
 1. `<area>`	Defines an area inside an image map
 1. `<article>`	Defines an article
@@ -91,7 +91,7 @@ Copied from [*W3 Schools* tag reference](https://www.w3schools.com/tags/) &mdash
 1. `<s>`	Defines text that is no longer correct
 1. `<samp>`	Defines sample output from a computer program
 1. `<script>`	Defines a client-side script
-1. `<section>`	Defines a section in a document
+1. `<section>`	Defines a section in a document (See [https://smashingmagazine.com/2020/01/html5-article-section/](https://smashingmagazine.com/2020/01/html5-article-section/) for why not to use `<section>`)
 1. `<select>`	Defines a drop-down list
 1. `<small>`	Defines smaller text
 1. `<source>`	Defines multiple media resources for media elements (`<video>` and <audio>)
