@@ -26,7 +26,7 @@
 
 ## Assignment
 
-Create an `index.html` file in its own folder that uses all of these tags. Mine looks something like [this](https://psb-david-petty.github.io/psb-2019-2020-s1-www/www/first/):
+Create an `index.html` file in its own folder that uses *all* of these tags. Mine looks something like [this](https://psb-david-petty.github.io/psb-2019-2020-s1-www/www/first/):
 
 <hr>
 
@@ -58,7 +58,7 @@ My favorite [genres](https://en.wikipedia.org/wiki/List_of_music_genres_and_styl
 
 ![bunny salad](https://drive.google.com/uc?id=1F2zVrWaUSjdw0rGR_0d9jjBdKlYCk2hh)
 
-Bunny Salad
+**Bunny Salad**
 
 1. Place crisp lettuce leaf on plate.
 1. On top of it, place upside down — 1 chilled pear half
