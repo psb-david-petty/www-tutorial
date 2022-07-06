@@ -8,8 +8,9 @@
 
 | Tag | Description |
 | --- | --- |
+| `<!-- This is a comment -->` | [https://www.w3schools.com/tags/tag_comment.asp](https://www.w3schools.com/tags/tag_comment.asp) 'The comment tag is used to insert comments in the source code. Comments are not displayed in the browsers.' |
 | `<!DOCTYPE html>` | [https://www.w3schools.com/tags/tag_doctype.asp](https://www.w3schools.com/tags/tag_doctype.asp) 'The `<!DOCTYPE>` declaration must be the very first thing in your HTML document, before the <html> tag. The <!DOCTYPE> declaration is not an HTML tag; it is an instruction to the web browser about what version of HTML the page is written in.' |
-| `<html lang="en">`<br>`</html>` | [https://www.w3schools.com/tags/tag_html.asp](https://www.w3schools.com/tags/tag_html.asp) 'The `<html>` tag is the container for all other HTML elements (except for the `<!DOCTYPE>` DTD).' The `lang="en"` attribute specifies the language of the webpage is English. (See:[https://www.w3schools.com/Tags/ref_language_codes.asp](https://www.w3schools.com/Tags/ref_language_codes.asp)) |
+| `<html lang="en">`<br>`</html>` | [https://www.w3schools.com/tags/tag_html.asp](https://www.w3schools.com/tags/tag_html.asp) 'The `<html>` tag is the container for all other HTML elements (except for the `<!DOCTYPE>` DTD).' The `lang="en"` attribute specifies the language of the webpage is English. (See: [https://www.w3schools.com/Tags/ref_language_codes.asp](https://www.w3schools.com/Tags/ref_language_codes.asp)) |
 | `<head>`<br>`</head>` |[https://www.w3schools.com/tags/tag_head.asp](https://www.w3schools.com/tags/tag_head.asp) 'The `<head>` element can include a title for the document, scripts, styles, meta information, and more,' including:  `<title>` (this element is required in an HTML document), `<style>`, `<base>`, `<link>`, `<meta>`, `<script>`, `<noscript>`. |
 | `<meta charset="utf-8">` | [https://www.w3schools.com/tags/tag_meta.asp](https://www.w3schools.com/tags/tag_meta.asp) 'Metadata is data (information) about data. The `<meta>` tag provides metadata about the HTML document.' The `charset="utf-8"` attribute tells the browser that the page is encoded using UTF-8 character encoding. (See: [Declaring character encodings in HTML](https://www.w3.org/International/questions/qa-html-encoding-declarations) and [Character encodings: Essential concepts](https://www.w3.org/International/articles/definitions-characters/)) |
 | `<title>`<br>`</title>` |[https://www.w3schools.com/tags/tag_title.asp](https://www.w3schools.com/tags/tag_title.asp) 'The `<title>` tag is required in all HTML documents and it defines the title of the document.' |
@@ -22,7 +23,52 @@
 | `</li>`<br>`</li>` |[https://www.w3schools.com/tags/tag_li.asp](https://www.w3schools.com/tags/tag_li.asp) 'The `<li>` tag defines a list item... used in ordered lists (`<ol>`), unordered lists (`<ul>`), and in menu lists (`<menu>`).' |
 | `<img src="smiley.gif" alt="Smiley face">` | [https://www.w3schools.com/tags/tag_img.asp](https://www.w3schools.com/tags/tag_img.asp) 'The `<img>` tag defines an image in an HTML page. The `<img>` tag has two required attributes: `src` and `alt`.' The `<img>` tag is a void tag. |
 | `<a href="http://google.com/">`<br>`</a>` | [https://www.w3schools.com/tags/tag_a.asp](https://www.w3schools.com/tags/tag_a.asp) 'The `<a>` tag defines a hyperlink used to link from one page to another. The most important attribute of the `<a>` element is the `href` attribute, which indicates the link's destination.'
-| `<!-- This is a comment -->` | [https://www.w3schools.com/tags/tag_comment.asp](https://www.w3schools.com/tags/tag_comment.asp) 'The comment tag is used to insert comments in the source code. Comments are not displayed in the browsers.' |
+
+## Assignment
+
+Create an `index.html` file in its own folder that uses all of these tags. Mine looks something like [this](https://psb-david-petty.github.io/psb-2019-2020-s1-www/www/first/):
+
+<hr>
+
+# About me
+
+I am a teacher at [Brookline High School](http://j.mp/psb_david_petty). I teach computing and robotics. I also **really** like cute animals.
+
+![guinea pig](https://images.unsplash.com/photo-1645287712615-4a3968515cb3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=545&q=80)
+
+Photo by <a href="https://unsplash.com/@pete_2112?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pete F</a> on <a href="https://unsplash.com/s/photos/guinea-pig?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+## Favorites
+
+My favorite [genres](https://en.wikipedia.org/wiki/List_of_music_genres_and_styles) of music are (in alphabetical order):
+
+- Alternative & Punk
+- Blues
+- Classical
+- Electronic
+- Funk
+- Jazz
+- R&B
+- Rock
+- Soul
+- Traditional
+- World
+
+## Recipe
+
+![bunny salad](https://drive.google.com/uc?id=1F2zVrWaUSjdw0rGR_0d9jjBdKlYCk2hh)
+
+Bunny Salad
+
+1. Place crisp lettuce leaf on plate.
+1. On top of it, place upside down — 1 chilled pear half
+1. Make bunny, using narrow end for face.
+  - Eyes — 2 raisins
+  - Nose — 1 red cinnamon candy
+  - Ears — 2 blanched almonds
+1. For his tail — cottage cheese ball
+
+From [*Betty Crocker's Cook Book for Boys and Girls*](https://isbn.nu/9780764526343) &copy; 1957.
 
 <hr>
 
