@@ -1,6 +1,6 @@
 # HTML Tags
 
-Copied from [*W3 Schools* tag reference](https://www.w3schools.com/tags/) &mdash; 119 tags, 12 of which are **not supported by HTML5**.
+Copied from [*W3 Schools* tag reference](https://www.w3schools.com/tags/) &mdash; there are 119 HTML tags, 12 of which are **not supported by HTML5**.
 
 1. `<!--...-->`	Defines a comment
 1. `<!DOCTYPE>` 	Defines the document type
