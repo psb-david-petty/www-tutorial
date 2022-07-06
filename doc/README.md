@@ -21,6 +21,7 @@ The other documents document the tags, stylesheet declaration, and JavaScript co
 
 | Link | Description |
 | --- | --- |
+| [./attributes.html](https://psb-david-petty.github.io/www-tutorial/doc/attributes.html) | All attribute descriptions from from [*W3 Schools* CSS reference](https://www.w3schools.com/cssref/) (which they refer to as CSS *properties*) |
 | [./basic-tags.html](https://psb-david-petty.github.io/www-tutorial/doc/basic-tags.html) | Basic tag description |
 | [./tags.html](https://psb-david-petty.github.io/www-tutorial/doc/tags.html) | All tag descriptions from from [*W3 Schools* tag reference](https://www.w3schools.com/tags/) |
 
